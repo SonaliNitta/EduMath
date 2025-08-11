@@ -1,9 +1,11 @@
 # EduMath
 Making maths fun.
+
 Team members: 
 Kranthi
 Anushree
 Sonali
 Pranamya
-Sowjanya
+Sowjanya.
+
 Poster tool used - Canva
